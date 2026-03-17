@@ -7,3 +7,5 @@ This repo contains runnable versions of my Purdue Global IT 527 work.
 - **r-foundation-data-analysis** – Loan Applicants dataset in R:
   - Exploratory analysis (histograms, boxplots, correlation, t-test)
   - Power analysis for t-test, ANOVA, and correlation
+
+- Purdue MS Cybersecurity Management PORTFOLIO: [`120424_PurdueGradSamples_2026.pdf`](docs/120424_PurdueGradSamples_2026.pdf)
