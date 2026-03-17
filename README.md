@@ -8,4 +8,4 @@ This repo contains runnable versions of my Purdue Global IT 527 work.
   - Exploratory analysis (histograms, boxplots, correlation, t-test)
   - Power analysis for t-test, ANOVA, and correlation
 
-- Purdue MS Cybersecurity Management PORTFOLIO: [`120424_PurdueGradSamples_2026.pdf`](docs/120424_PurdueGradSamples_2026.pdf)
+- Purdue MS Cybersecurity Management PORTFOLIO: [`022825_PurdueGradSamples_2026.pdf`](docs/022825_PurdueGradSamples_2026.pdf)
