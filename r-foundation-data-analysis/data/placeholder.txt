@@ -1,2 +1,7 @@
-This folder will contain Loans.csv
+//This folder will contain Loans.csv
 
+Applicant.ID,Number.of.MissedLate.Payments,Lines.of.Credit,Credit.Score,Monthly.Income,Age.at.First.Credit,Age.in.Years,Make.Loan
+701445,2,4,650,3200,20,32,1
+838181,0,8,720,4700,16,40,1
+611138,5,3,580,2500,19,36,0
+467118,3,5,600,2900,24,35,0
