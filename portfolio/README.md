@@ -1,5 +1,8 @@
 # Purdue Global — Academic Portfolio
 
+> **🎓 Visual Gallery:** [anelhenning2-collab.github.io/purdue-grad-samples-2026](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/) — Browse all 22 portfolio pages as clickable thumbnails, filterable by course.
+
+
 **Anél Henning** | Cybersecurity | Purdue Global University (Graduate Online)
 **Contact:** c. 813.743.1661 | anel_purdue@outlook.com
 
