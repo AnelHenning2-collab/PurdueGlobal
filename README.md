@@ -1,8 +1,9 @@
-PurdueGlobal/
-  README.md
-  r-foundation-data-analysis/
-    README.md
-    01_loans_exploration.R
-    02_loans_power_testing.R
-    data/
-      Loans.csv
+# Purdue Global – Data Analysis Portfolio
+
+This repo contains runnable versions of my Purdue Global IT 527 work.
+
+## Projects
+
+- **r-foundation-data-analysis** – Loan Applicants dataset in R:
+  - Exploratory analysis (histograms, boxplots, correlation, t-test)
+  - Power analysis for t-test, ANOVA, and correlation
