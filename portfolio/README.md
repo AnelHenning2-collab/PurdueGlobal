@@ -1,47 +1,78 @@
-# Purdue Global — Academic Portfolio
+# 📂 Purdue Global — Cybersecurity Portfolio
 
-> **🎓 Visual Gallery:** [anelhenning2-collab.github.io/purdue-grad-samples-2026](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/) — Browse all 22 portfolio pages as clickable thumbnails, filterable by course.
-
-
-**Anél Henning** | Cybersecurity | Purdue Global University (Graduate Online)
-**Contact:** c. 813.743.1661 | anel_purdue@outlook.com
-
-> Full portfolio of graduate-level coursework demonstrating applied statistics, data analysis, risk modeling, machine learning, and blockchain development.
+**Student:** Anél Henning
+**Program:** MS in Cybersecurity Management | Purdue Global University (2026)
+**PDF Source:** [`081325_PurdueGradSamples_2026-8.5x11.pdf`](../docs/)
 
 ---
 
-## Portfolio Index
+## Complete Sample Index
 
-| # | Assignment | Course | Key Skills | Folder |
-|---|---|---|---|---|
-| 00 | Portfolio Cover & Index | — | Portfolio design | [00-cover](00-cover/) |
-| 01 | Statistic Definitions in Perspective | IN555 Statistics for IT | ANOVA, regression, chi-square, R | [01-statistics-for-it](01-statistics-for-it/) |
-| 02 | Statistical Analysis at TRUCKS© | IN555 Statistics for IT | Least squares regression, hypothesis testing, stakeholder presentations | [02-trucks-statistical-analysis](02-trucks-statistical-analysis/) |
-| 03 | Significant Differences at the Movies | IT 527 Foundation of Data Analysis | One-way ANOVA, box plots, box office revenue analysis | [03-significant-differences-movies](03-significant-differences-movies/) |
-| 04 | Business Problems & Data Relationships | IT 527 Foundation of Data Analysis | R scatterplots, mtcars, descriptive stats | [04-business-problems-r](04-business-problems-r/) |
-| 05 | Power Testing Assignment | IT 527 Foundation of Data Analysis | t-tests, ANOVA power analysis, pwr package | [05-power-testing](05-power-testing/) |
-| 06 | Quality Datasets — Business Problems | IT 527 Foundation of Data Analysis | Histograms, Pearson correlation, t-tests | [06-quality-datasets](06-quality-datasets/) |
-| 07 | Categorization Analytics | IT 527 Foundation of Data Analysis | k-Means clustering, risk categories, dplyr | [07-categorization-analytics](07-categorization-analytics/) |
-| 08 | Quantitative Risk — Unit 1 Seminar | IT628 Quantitative Risk Analysis | SWOT, risk frameworks, EMV, linear regression | [08-quantitative-risk-unit1](08-quantitative-risk-unit1/) |
-| 09 | SWOT and Linear Regression — Home & Hearth | IT628 Quantitative Risk Analysis | SWOT, R linear regression, heating oil prediction | [09-swot-linear-regression](09-swot-linear-regression/) |
-| 10 | Predict Loan Default Risk (GLM) | IT628 Quantitative Risk Analysis | GLM, logistic regression, credit risk, Python | [10-loan-default-glm](10-loan-default-glm/) |
-| 11 | Car Insurance Decision Tree | IT628 Quantitative Risk Analysis | Decision trees, rpart, PolicyHolder data | [11-car-insurance-decision-tree](11-car-insurance-decision-tree/) |
-| 12 | Hyperloop Risk & Logistic Regression | IT628 Quantitative Risk Analysis | Logistic regression, SWOT, SpaceX/Tesla data, Adobe Firefly | [12-hyperloop-risk](12-hyperloop-risk/) |
+### 📊 Foundation of Data Analysis (IT 527-01) — Prof. Saanie Sulley
+
+| # | Sample | Tools | Key Concepts |
+|---|--------|-------|-------------|
+| 01 | [Statistics for IT](01-statistics-for-it/) | PowerPoint, Excel | TRUCKS© stakeholder presentation |
+| 02 | [TRUCKS Statistical Analysis](02-trucks-statistical-analysis/) | PowerPoint, Excel | Least square regression, hypothesis testing, KPI |
+| 03 | [Significant Differences at the Movies](03-significant-differences-movies/) | Word, R-Studio | One-way ANOVA, box office revenue analysis |
+| 04 | [Business Problems and Data Relationships](04-business-problems-r/) | PowerPoint, Excel, R-Studio | Scatterplots, data governance, `mtcars` dataset |
+| 05 | [Power Testing Assignment](05-power-testing/) | PowerPoint, R-Studio, Excel | t-tests, ANOVA, correlation, `pwr` package |
+| 06 | [Quality Datasets — Investigating Business Problems](06-quality-datasets/) | PowerPoint, R-Studio, Excel | Loan data, histograms, Pearson correlation, boxplots |
+| 07 | [Categorization Analytics](07-categorization-analytics/) | PowerPoint, R-Studio, Excel | K-Means clustering, patient risk categories |
+
+### 📈 Quantitative Risk Analysis (IT628-01) — Prof. Kevin Crouse, PhD
+
+| # | Sample | Tools | Key Concepts |
+|---|--------|-------|-------------|
+| 08 | [U1 Seminar — Risk Analysis Concepts](08-quantitative-risk-unit1/) | PowerPoint, R-Studio, Excel | SWOT analysis, risk matrix, EMV |
+| 09 | [SWOT and Linear Regression — Home & Heart](09-swot-linear-regression/) | Word, R-Studio | SWOT analysis, linear regression, heating oil prediction |
+| 10 | [Predict Loan Default Risk using GLM](10-loan-default-glm/) | PowerPoint, R-Studio, Excel | Generalized Linear Models, risk management plan |
+| 11 | [Should I Sell Your Car Insurance?](11-car-insurance-decision-tree/) | Word, R-Studio | Decision trees, `rpart`, PolicyHolders/PolicyBuyers data |
+| 12 | [Tackle Risk for Hyperloop Company](12-hyperloop-risk/) | R-Studio, Adobe Firefly | SWOT, logistic regression, SpaceX/Tesla data, AI rendering |
+
+### 🔐 Introduction to Cybersecurity (IT537-02) — Prof. Dr. Hany Othman
+
+| # | Sample | Tools | Key Concepts |
+|---|--------|-------|-------------|
+| 14 | [Network Management Methods in Labs](14-network-management-cybersecurity/) | Word | VLAN, IDS/IPS, firewalls, SNORT, AI/ML in cybersecurity |
+| 15 | [Vulnerability Analysis — SQL Injection, XSS, SSRF](15-vulnerability-analysis/) | Word | Root causes, impacts, mitigation strategies |
+
+### ✍️ Research and Writing in IT (IT513) — Prof. Jennifer Merritt
+
+| # | Sample | Tools | Key Concepts |
+|---|--------|-------|-------------|
+| 13 | [The Evolution of Blockchain Technology](13-blockchain-evolution/) | Word | Bitcoin, healthcare blockchain, humanitarian action, AI tokens |
+| 16 | [Russia–Ukraine Cyberwar Lessons](16-russia-ukraine-cyberwar/) | Word | ASCIL symposium, IHL, Evil Corp, Ukraine IT Army |
+| 17 | [Blockchain Transformation Over Ten Years](17-blockchain-ten-years/) | Word | Bitcoin backbone protocol, global crypto, Fourth Industrial Revolution |
+| 18 | [Quote and Paraphrase — IoT & Cloud Security](18-quote-paraphrase-iot-cloud/) | Word | APA citation, Elliptic Curve Cryptography, IoT smart homes |
+| 19 | [Narrative & Descriptive Essays — IT Security](19-narrative-descriptive-essays/) | Word | iPhone security, personal data protection, creative writing |
+
+### 🎨 Design & Client Work
+
+| # | Sample | Tools | Key Concepts |
+|---|--------|-------|-------------|
+| 20 | [Smart Assembly Lines + Robotic Vending](20-smart-assembly-robotic-vending/) | InDesign, Photoshop | Smart manufacturing, predictive maintenance, IoT |
+| 21 | [Adobe XD Design Prototypes](21-adobe-xd-design-prototypes/) | Adobe XD, InDesign, Photoshop | PayPath, Chicly, Sweat, Shooting Stars Post, Spiaggia Hotel |
 
 ---
 
-## Skills Across This Portfolio
+## 💻 Runnable Code
 
-**Statistical Methods:** Descriptive statistics · ANOVA · Chi-square · Confidence intervals · Hypothesis testing · Pearson correlation · Least squares regression · Power analysis
-
-**Machine Learning & Modeling:** Logistic regression · Generalized Linear Models (GLM) · k-Means clustering · Decision trees · Linear regression · Predictive modeling
-
-**Tools & Platforms:** R-Studio · Python (statsmodels, pandas) · Microsoft Excel · Microsoft PowerPoint · Adobe Firefly
-
-**Business Applications:** Transportation analytics (TRUCKS©) · Box office revenue analysis · Loan default risk · Insurance risk modeling · Hyperloop vehicle risk · Heating oil inventory management
-
-**Risk Frameworks:** SWOT analysis · Enterprise Risk Management · High Probability/High Impact matrix · Risk identification → data modeling → application pipeline
+| Folder | Language | Description |
+|--------|----------|-------------|
+| [`r-foundation-data-analysis/`](../r-foundation-data-analysis/) | R | Loans exploration and power testing scripts |
 
 ---
 
-*Purdue Global University — Graduate Online — 2024–2026*
+## Skills Summary
+
+**Data Analysis:** R-Studio · ANOVA · t-tests · Linear/Logistic Regression · K-Means Clustering · GLM · Power Analysis · Pearson Correlation
+**Cybersecurity:** VLAN · IDS/IPS · SNORT · Firewalls · SQL Injection · XSS · SSRF · Vulnerability Assessment · Incident Response
+**Blockchain & Crypto:** Bitcoin · Ethereum · Proof-of-Work · Smart Contracts · DeFi · AI Tokens · Digital Ledger Technology
+**Geopolitics & Cyber Warfare:** Russia–Ukraine conflict · ASCIL · IHL · GRU · Evil Corp · Lockbit
+**Research & Writing:** APA citation · Academic writing · Quoting · Paraphrasing · Narrative/Descriptive essays
+**Design:** Adobe XD · InDesign · Photoshop · Firefly AI · UI/UX prototyping · Brand identity
+
+---
+
+> **21 portfolio samples** | **7 courses** | **4 professors** | MS Cybersecurity Management · Purdue Global 2026
