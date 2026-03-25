@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page Not Available</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+      margin: 0; padding: 0;
+      background: #f9f8f6;
+      color: #334155;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .card {
+      max-width: 520px;
+      width: 90%;
+      padding: clamp(1.5rem, 4vw, 2.5rem) clamp(1.25rem, 4vw, 3rem);
+      background: #ffffff;
+      border: 1px solid rgba(15,23,42,0.09);
+      border-radius: 16px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+      text-align: center;
+    }
+    h1 {
+      font-size: clamp(1.25rem, 2.5vw + 0.25rem, 1.6rem);
+      color: #0f172a;
+      margin-bottom: 0.8rem;
+      font-weight: 800;
+    }
+    p {
+      font-size: clamp(0.8125rem, 0.5vw + 0.75rem, 0.92rem);
+      line-height: 1.7;
+      margin-bottom: 0.8rem;
+      color: #334155;
+    }
+    .note {
+      font-size: clamp(0.75rem, 0.3vw + 0.7rem, 0.82rem);
+      color: #64748b;
+      line-height: 1.65;
+    }
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.7rem;
+      justify-content: center;
+      margin-top: clamp(1rem, 3vw, 1.8rem);
+    }
+    .links a {
+      display: inline-block;
+      padding: clamp(0.45rem, 1vw, 0.6rem) clamp(1rem, 2vw, 1.4rem);
+      border-radius: 8px;
+      font-size: clamp(0.75rem, 0.3vw + 0.7rem, 0.85rem);
+      font-weight: 600;
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+    .links a:hover { opacity: 0.85; }
+    .links a.primary {
+      background: #2563eb;
+      color: #ffffff;
+    }
+    .links a.secondary {
+      background: rgba(37,99,235,0.08);
+      border: 1px solid rgba(37,99,235,0.18);
+      color: #2563eb;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>Page not available right now</h1>
+    <p>
+      This page is currently unavailable or has been moved
+      while I reorganize my academic and professional projects.
+    </p>
+    <p class="note">
+      If you are a professor, advisor, hiring manager, or donor, thank you for
+      your interest. Some pages are temporarily offline or gated while I update
+      samples and research links.
+    </p>
+    <p class="note">
+      You can visit my portfolio showcase or contact page for more
+      context about my current work.
+    </p>
+    <div class="links">
+      <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" class="primary">Portfolio Showcase</a>
+      <a href="https://anelhenning2-collab.github.io/contact-hub/" class="secondary">Contact</a>
+    </div>
+  </main>
+</body>
+</html>
