@@ -1,4 +1,4 @@
-# Anél Henning — Purdue Global Portfolio
+# Anèl Henning — Purdue Global Portfolio
 
 **Cybersecurity | Purdue Global University (Graduate Online)**
 

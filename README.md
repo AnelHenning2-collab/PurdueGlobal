@@ -1,6 +1,6 @@
 # Purdue Global – MS Cybersecurity Management Portfolio
 
-**Student:** Anél Henning
+**Student:** Anèl Henning
 **Program:** MS in Cybersecurity Management | Purdue Global University (2026)
 **Location:** Tampa, Florida
 
