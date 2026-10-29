@@ -1,6 +1,6 @@
 # Detailed Assessments of Three Network Management Methods in Labs
 
-**Course:** IT537-02 Introduction to Cybersecurity | Purdue Global University
+**Course:** IT537-02 Introduction to Cybersecurity | Purdue University Global
 **Professor:** Dr. Hany Othman
 **Programs:** Microsoft Word
 

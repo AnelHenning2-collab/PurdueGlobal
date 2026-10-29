@@ -1,6 +1,6 @@
 # Unit 9–10: Should I Sell Your Car Insurance? — Decision Tree Analysis
 
-**Course:** IT513 Research and Writing in IT | Purdue Global University
+**Course:** IT513 Research and Writing in IT | Purdue University Global
 **Professor:** Kevin Crouse, PhD
 **Programs:** R-Studio
 

@@ -1,6 +1,6 @@
 # Smart Assembly Lines + Robotic Vending Machines
 
-**Course:** Client Project — Smart Productions | Purdue Global University
+**Course:** Client Project — Smart Productions | Purdue University Global
 **Professor:** N/A (Client Work)
 **Programs:** Adobe InDesign, Adobe Photoshop
 

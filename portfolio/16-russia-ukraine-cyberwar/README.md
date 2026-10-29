@@ -1,6 +1,6 @@
 # Cyberwar Lessons in Russia and Ukraine Conflict
 
-**Course:** IT513 Research and Writing in IT | Purdue Global University
+**Course:** IT513 Research and Writing in IT | Purdue University Global
 **Professor:** Jennifer Merritt
 **Programs:** Microsoft Word
 

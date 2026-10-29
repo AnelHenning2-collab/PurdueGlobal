@@ -1,6 +1,6 @@
 # Narrative Essay & Descriptive Essay — IT Security in Daily Life
 
-**Course:** IT513 Research and Writing in IT | Purdue Global University
+**Course:** IT513 Research and Writing in IT | Purdue University Global
 **Professor:** Jennifer Merritt
 **Programs:** Microsoft Word
 

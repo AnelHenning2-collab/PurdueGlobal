@@ -1,6 +1,6 @@
 # Statistic Definitions in Perspective
 
-**Course:** IN555-01 Statistics for IT | Purdue Global University
+**Course:** IN555-01 Statistics for IT | Purdue University Global
 **Professor:** Jean Kotsiovos
 **Programs:** Microsoft Word, R-Studio
 

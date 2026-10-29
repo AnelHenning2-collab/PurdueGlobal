@@ -1,6 +1,6 @@
 # Categorization Analytics — k-Means Clustering
 
-**Course:** IT 527-01 Foundation of Data Analysis | Purdue Global University
+**Course:** IT 527-01 Foundation of Data Analysis | Purdue University Global
 **Professor:** Saanie Sulley
 **Programs:** Microsoft Word, R-Studio
 

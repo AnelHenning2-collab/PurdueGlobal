@@ -1,6 +1,6 @@
 # Adobe XD Design Prototypes — PayPath, Chicly, Sweat, Shooting Stars Post, Spiaggia Hotel
 
-**Course:** Client Project — Adobe XD Daily Challenges | Purdue Global University
+**Course:** Client Project — Adobe XD Daily Challenges | Purdue University Global
 **Professor:** N/A (Design Portfolio)
 **Programs:** Adobe XD, Adobe InDesign, Adobe Photoshop
 

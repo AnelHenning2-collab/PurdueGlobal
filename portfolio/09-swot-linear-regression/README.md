@@ -1,6 +1,6 @@
 # Unit 2: SWOT Analysis and Linear Regression — Home & Hearth
 
-**Course:** IT628-01 Quantitative Risk Analysis | Purdue Global University
+**Course:** IT628-01 Quantitative Risk Analysis | Purdue University Global
 **Professor:** Kevin Crouse, PhD
 **Programs:** Microsoft Word, R-Studio
 

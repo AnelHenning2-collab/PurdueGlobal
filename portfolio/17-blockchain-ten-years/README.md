@@ -1,6 +1,6 @@
 # How Has Blockchain Technology Transformed Industries Over the Past Ten Years?
 
-**Course:** IT513 Research and Writing in IT | Purdue Global University
+**Course:** IT513 Research and Writing in IT | Purdue University Global
 **Professor:** Jennifer Merritt
 **Programs:** Microsoft Word
 

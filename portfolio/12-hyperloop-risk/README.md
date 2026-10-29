@@ -1,6 +1,6 @@
 # Unit 10: Tackle Risk for Hyperloop Company
 
-**Course:** IT628-01 Quantitative Risk Analysis | Purdue Global University
+**Course:** IT628-01 Quantitative Risk Analysis | Purdue University Global
 **Professor:** Kevin Crouse, PhD
 **Programs:** R-Studio, Adobe Firefly
 

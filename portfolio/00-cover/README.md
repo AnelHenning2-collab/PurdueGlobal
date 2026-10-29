@@ -1,6 +1,6 @@
 # Anèl Henning — Purdue Global Portfolio
 
-**Cybersecurity | Purdue Global University (Graduate Online)**
+**Cybersecurity | Purdue University Global (Graduate Online)**
 
 **Contact:** c. 813.743.1661 | anel_purdue@outlook.com
 

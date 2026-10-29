@@ -1,7 +1,7 @@
 # 📂 Purdue Global — Cybersecurity Portfolio
 
 **Student:** Anèl Henning
-**Program:** MS in Cybersecurity Management | Purdue Global University (2026)
+**Program:** MS in Cybersecurity Management | Purdue University Global (2026)
 **PDF Source:** [`081325_PurdueGradSamples_2026-8.5x11.pdf`](../docs/)
 
 ---
